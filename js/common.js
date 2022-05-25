@@ -59,6 +59,11 @@ function init() {
         preloaderColor: config.preloaderColor,
     
         SOCIAL: {
+          discord(data) {
+            let username = data.trim();
+            return `https://discord.gg/${username}`;
+          },
+          
           telegram(data) {
             let username = data.trim();
             username = username.replace('@', '');

@@ -11,6 +11,7 @@ let config = {
 
   // Социальные сети
   social: {
+    discord:'zaynehouse',
     telegram: 'zaynehouse',
     steam: 'zaynehouse',
     vk: 'zaynehouse', 
