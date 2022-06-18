@@ -7,11 +7,11 @@ let config = {
   showDelay: 2.5, 
 
   // Заголовок
-  title: 'BonaQua#5586',
+  title: 'BonaQua#0110',
 
   // Социальные сети
   social: {
-    discord:'zaynehouse',
+    discord:'zayne',
     telegram: 'zaynehouse',
     steam: 'zaynehouse',
     vk: 'zaynehouse', 
